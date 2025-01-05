@@ -1,7 +1,3 @@
-Here’s a sample structure and content for your GitHub README file for the sustainability dashboard project:
-
----
-
 # **Sustainability Dashboard for Pallet Trader**
 
 This repository contains the code, data, and documentation for a **Sustainability Dashboard** designed to track and visualize sustainability metrics for Pallet Trader. The dashboard focuses on critical metrics such as CO₂ emissions, recycled materials percentage, and sustainability efforts over time, providing actionable insights.
